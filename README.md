@@ -1,6 +1,7 @@
+**Predicting IBM Employee Attrition Using Machine Learning**
 This project applies machine learning techniques to analyze and predict employee attrition using the IBM HR Analytics Employee Attrition dataset. The goal is to help HR teams identify key factors that drive turnover and build a predictive model that can flag employees at risk of leaving.
 
-The project includes:
+**The project includes:**
 
 Exploratory Data Analysis (EDA) to understand demographic, job-related, and satisfaction patterns.
 
@@ -16,7 +17,7 @@ Evaluation using accuracy, recall, precision, F1-score, ROC-AUC, and confusion m
 
 Feature importance analysis to identify the strongest drivers of attrition.
 
-🔍 Key Insights
+**🔍 Key Insights**
 
 Overtime, job role, and employee satisfaction significantly influence attrition.
 
@@ -24,7 +25,7 @@ Logistic Regression emerged as the best-performing model with strong recall and 
 
 Gradient Boosting and Neural Networks performed competitively but lacked interpretability or recall compared to Logistic Regression.
 
-🧠 Techniques Used
+**🧠 Techniques Used**
 
 Python, Pandas, NumPy, Scikit-Learn
 
@@ -36,6 +37,6 @@ ROC Curves & Feature Importance Visualization
 
 Machine Learning Classification Models
 
-🎯 Objective
+**🎯 Objective**
 
 To build an accurate and interpretable attrition prediction model that supports data-driven HR strategies, improves employee retention, and reduces turnover costs.
